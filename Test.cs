@@ -5,6 +5,8 @@ namespace Medseek.Integration.PhysicianSvc
     /// Implementation of Physician service using <see cref="IMessageOperaton"/> interface for two-way calls.
     /// </summary>
     public class PhysicianSvcTwoWayImplementation : IMessageOperation
+
     {
+        sdafsadfsaddaf
 }
 }
